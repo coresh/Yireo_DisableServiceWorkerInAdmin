@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Yireo\\DisableServiceWorkerInAdmin\\": ""
+      "Yireo\\DisableServiceWorkerInAdmin\\": "*"
     },
     "files": [
       "registration.php"
